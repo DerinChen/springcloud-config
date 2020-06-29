@@ -1,5 +1,3 @@
 hi  i am lucy
-nice to meet you.
-hi  today 
-
-again modified!
+nice to meet you!
+this version 1.0
